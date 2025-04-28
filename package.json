@@ -1,0 +1,12 @@
+{
+  "name": "sepolia-claimer",
+  "version": "1.0.0",
+  "description": "Auto-claimer for Sepolia ETH Faucet",
+  "main": "claimer.js",
+  "scripts": {
+    "start": "node claimer.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
